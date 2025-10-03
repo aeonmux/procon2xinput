@@ -1,2 +1,0 @@
-pub const XBOX_VENDOR_ID: u16 = 0x045E;
-pub const XBOX_360_CONTROLLER_PRODUCT_ID: u16 = 0x028E;
