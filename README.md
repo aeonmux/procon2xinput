@@ -1,2 +1,2 @@
 # procon2xinput
-Linux Switch 2 Pro Controller Virtual Device Adapter
+Switch 2 Pro Controller Virtual X-Input Device Adaptor For Linux
